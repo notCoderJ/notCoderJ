@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <hr/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notCoderJ&layout=compact&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notCoderJ&layout=compact&langs_count=5&theme=buefy" />
 </a>
